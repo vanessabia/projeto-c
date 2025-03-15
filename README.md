@@ -5,10 +5,20 @@ Este repositório contém códigos desenvolvidos em **linguagem C** para manipul
 
 ## 🚀 Funcionalidades
 ✅ **Manipulação de Matrizes**: Operações básicas como busca de valores máximos por linha.
+
+
 ✅ **Análise de Grafos**: Identificação de cidades isoladas em um grafo representado por uma matriz de adjacência.
+
+
 ✅ **Lista de Funcionários**: Estrutura de dados para armazenar e gerenciar informações de funcionários, incluindo busca e ordenação.
+
+
 ✅ **Filas e Pilhas**: Implementação de estruturas de dados para gerenciamento de tarefas e processamento sequencial.
+
+
 ✅ **Ponto e Círculo**: Cálculos geométricos para determinar distâncias e relações entre pontos e círculos.
+
+
 ✅ **Listas Dinâmicas**: Estruturas encadeadas para alocação dinâmica e gerenciamento eficiente de dados.
 
 ## 🛠️ Como Usar
