@@ -49,7 +49,7 @@ Contribuições são bem-vindas! Para colaborar:
 3️⃣ Envie um **pull request**.
 
 ## 👩‍💻 Autor
-Desenvolvido por **Vanessa** e colaboradores.
+Desenvolvido por **Vanessa Beatriz**, **Gustavo Brito** e **Samuel Souza**.
 
 ## 📜 Licença
 Este projeto é distribuído sob a licença **MIT**.
